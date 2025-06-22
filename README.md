@@ -1,1 +1,1 @@
-[# spotify-clone](https://github.com/kumaribrunda/spotify-clone/blob/main/index.html)
+[Live Demo](https://kumaribrunda.github.io/spotify-clone/)
